@@ -1,6 +1,10 @@
 # frontpage
  <img src="/qq.png">
 
+ ## live link
+ https://nur-tusa.github.io/angular-week1/
+
+
 ## project description
 this app is for creating quotes by the user and voting for the quotes
 # Angular1

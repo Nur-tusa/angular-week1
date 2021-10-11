@@ -9,3 +9,6 @@ h2 {
     text-align: center;
     font-size: 30px;
 }
+body{
+    background-image: url("/quote.jpeg");
+    }

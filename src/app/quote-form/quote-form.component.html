@@ -38,8 +38,8 @@
       <div class="form-group">
 
         <label for="name">author</label>
-        <input type="text" class="form-control" id="name" [(ngModel)]="newQuote.name" name="name" #name='ngModel' required>
-        <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
+        <input type="text" class="form-control" id="author" [(ngModel)]="newQuote.author" name="name" #author='ngModel' required>
+        <div [hidden]="author.valid || author.pristine" class="alert alert-danger">
           <p>Name is required</p>
         </div>
     </div>
@@ -59,6 +59,6 @@
             <p>Date is required</p>
           </div>
       </div>
-      <button type="submit" class="btn btn-success">Add Goal</button>
+      <button type="submit" class="btn btn-success">Add Quote</button>
   </form>
 </div>

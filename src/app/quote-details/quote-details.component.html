@@ -1,0 +1,6 @@
+<p>
+  submitted by:{{quote.name | titlecase}}
+</p>
+<button (click)="like()" >like:{{quote.likes}}</button>
+<button  (click)="dislike()" >dislike:{{quote.hates}}</button>
+<button (click)='quoteDelete(true)' class="btn btn-outline-danger">Delete quote</button>

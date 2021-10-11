@@ -4,5 +4,17 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
    
-background-image:url(/quote.jpeg)    
+background-image:url(./assets/q.jpg)   ; 
   }
+h1{
+  background-color: honeydew;
+}
+h2{
+  background-color: hotpink;
+}
+form{
+  background-color: indigo;
+} 
+h6{
+  background-color: rosybrown;
+}

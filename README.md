@@ -1,7 +1,10 @@
 # frontpage
  <img src="/qq.png">
 
+## project description
+this app is for creating quotes by the user and voting for the quotes
 # Angular1
+ quote creater
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
@@ -28,3 +31,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# copyright 
+only reserved to tusa @company 
+
+# support team
+name :  nur-tusa 
+contact : 0115314390
+address : NAIROBI -KENYA
